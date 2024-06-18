@@ -11,3 +11,5 @@ Escribiendo nuevas lineas en este archivo readme
 como nueva actividad
 
 realizado en github
+
+Finalizando con GitHub
